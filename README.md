@@ -1,3 +1,3 @@
 # My JavaQuiz Project
 
-Files are source code.
+All files are source code.
