@@ -1,2 +1,3 @@
-# My-JavaQuiz-Project
-My very own Java Quiz project
+# My JavaQuiz Project
+
+Files are source code.
